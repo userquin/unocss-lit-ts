@@ -1,6 +1,6 @@
 # unocss-lit-ts
 
-This repo will show you how to use [unocss](https://github.com/antfu/unocss) with [lit]().
+This repo will show you how to use [unocss](https://github.com/antfu/unocss) with [lit](https://lit.dev/).
 
 The `main` branch contains the code to run a simple `lit web-component`.
 

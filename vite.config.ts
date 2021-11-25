@@ -16,6 +16,7 @@ export default defineConfig({
   },
   plugins: [
     UnoCss({
+      mode: 'per-module',
       include: [/\.ts$/],
       presets: [
           presetAttributify(),

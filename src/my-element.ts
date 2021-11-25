@@ -1,7 +1,8 @@
+/* @unocss-include */
 import { html, css, LitElement, unsafeCSS } from 'lit'
 import { customElement, property } from 'lit/decorators.js'
 
-import unocss from 'uno.css'
+import unocss from '/@unocss/my-element.css'
 
 /**
  * An example element.
